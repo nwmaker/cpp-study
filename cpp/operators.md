@@ -44,7 +44,7 @@
 | 12 L->R | \| | bitwise OR | |
 | 13 L->R | && | logical AND | |
 | 14 L->R | \|\| | logical OR | |
-| 15 R->L | ?:, =, *=, /=, %=, +=, -=, <<=, >>=, &=, |=, ^= | conditional, and assignments | |
+| 15 R->L | ?:, =, *=, /=, %=, +=, -=, <<=, >>=, &=, \|=, ^= | conditional, and assignments | |
 | 16 R->L | throw | throw expression | |
 | 17 L->R | , | comma operator | |
 
