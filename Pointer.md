@@ -6,3 +6,6 @@
 ## Cheatsheet
 [C++11/14/17](https://github.com/AnthonyCalandra/modern-cpp-features)
 
+## Tutorial 
+[learncpp](http://www.learncpp.com/cpp-tutorial/31-precedence-and-associativity/)
+
