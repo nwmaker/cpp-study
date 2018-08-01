@@ -6,6 +6,8 @@
 ## Cheatsheet
 [C++11/14/17](https://github.com/AnthonyCalandra/modern-cpp-features)
 
-## Tutorial 
-[learncpp](http://www.learncpp.com/cpp-tutorial/31-precedence-and-associativity/)
+## Tutorials
 
+## Ref
+[Awesome C++](https://github.com/fffaraz/awesome-cpp)
+[cppreference std::function](https://en.cppreference.com/w/cpp/utility/functional/function)
